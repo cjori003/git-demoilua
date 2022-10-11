@@ -1,4 +1,4 @@
-# Git-demoilua
+# Git/GitHub-demoilua
 
 Kokeillaan GitHubia...
 
